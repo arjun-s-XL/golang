@@ -9,5 +9,4 @@ func main() {
 
 	var input2 float64 = float64(input1)
 	fmt.Printf("%.2f", input2)
-
 }
