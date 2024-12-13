@@ -11,5 +11,4 @@ func main() {
 	*p = j
 	fmt.Println(*p)
 	fmt.Println(&j)
-
 }
